@@ -6,17 +6,6 @@ Welcome to the Crypto Devs DAO! This project is a decentralized autonomous organ
 
 Access the deployed application here: [Crypto Devs DAO](https://onchain-dao-woad.vercel.app/)
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 The Crypto Devs DAO allows users to participate in the governance of a decentralized organization using their CryptoDevs NFTs. Users can propose changes, vote on proposals, and interact with the DAO through a user-friendly frontend interface. The project leverages smart contracts to ensure transparency and immutability in the governance process.
